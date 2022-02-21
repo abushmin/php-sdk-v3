@@ -26,7 +26,7 @@ To install the bindings via [Composer](http://getcomposer.org/), add the followi
     }
   ],
   "require": {
-    "cardpay/php-sdk-v3": "*@dev"
+    "abushmin/php-sdk-v3": "*@dev"
   }
 }
 ```
