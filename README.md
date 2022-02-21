@@ -1,3 +1,4 @@
+# WITH GUZZLE ^7.0
 # PHP SDK for Unlimint API v3
 The Unlimint API uses HTTP verbs and a RESTful endpoint structure. Request and response payloads are formatted as JSON.
 
